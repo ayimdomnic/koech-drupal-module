@@ -1,0 +1,6 @@
+name = Pay.Money API
+description = "Checkout.Money core module."
+package = Pay.Money
+core = 7.x
+version = 7.x-1.0-dev
+configure = admin/config/system/money
